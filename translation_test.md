@@ -1,4 +1,4 @@
-This is a translation test.
+Test di traduzione:
 
 Gestisci i tuoi beni dall'acquisto allo smaltimento con il nostro Registro Beni Ammortizzabili. Registra, verifica e classifica i tuoi beni.
 
