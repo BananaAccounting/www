@@ -23,6 +23,7 @@ Con il Registro Beni Ammortizzabili di Banana Contabilità è molto semplice con
 Se non indichi il tipo di ammortamento, la percentuale, il conto o la contropartita per un singolo bene, il programma applica il metodo predefinito per quel tipo di risorsa. Per una maggiore flessibilità, puoi sempre apportare modifiche manuali come svalutazioni o rivalutazioni.
 
 **Full Register of your assets**
+
 Manage all of your assets depreciable in four simple tables. In contrast to the Excel spreadsheets, which normally manages only the changes in the book value, the Banana accounting depreciation book keeps track of all the changes, the purchase value, the historical value, the book value and the Tax value of any good.
 
 **Full Audit Trail**
