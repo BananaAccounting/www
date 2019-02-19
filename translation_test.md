@@ -17,7 +17,8 @@ Un modo rapido e agile per visualizzare in un'unica soluzione il valore iniziale
 Ogni modifica del valore, inclusi gli ammortamenti e le svalutazioni, si basa su algoritmi agili, integrati in modo fluido nella tabella Registrazioni.
 
 Anche se viene registrato l'ammortamento automatico, in base ai criteri che hai impostato, hai comunque la possibilità di cambiare manualmente le voci o configurare schemi di calcolo particolari.
-Personalizza l'ammortamento a modo tuo
+
+**Personalizza l'ammortamento a modo tuo**
 
 Con il Registro Beni Ammortizzabili di Banana Contabilità è molto semplice configurare i piani di ammortamento in base alle tue esigenze. Scegli le date con la frequenza che preferisci: mensile, trimestrale, semestrale o annuale, il programma calcolerà automaticamente i valori residui.
 
@@ -34,4 +35,13 @@ Manage all of your assets depreciable in four simple tables. In contrast to the 
 Manage your assets from purchase to disposal with our amortisable assets register. Record, verify and categorize your assets. Our professional functions optimise the processing and revaluations of amortisation. Just set up the parameters for the automatic calculation, then import or export the historical data as you wish.A quick and agile way to visualize the initial value, the investment, the disposals and the residual value of the assets in one single solution.
 
 **Intelligent Accounting**
-Each modification of the value, including amortisation and write-down, is based on agile algorithms, which are fluidly integrated in the Transactions table. Although automatic amortisation is being recorded, depending on the criteria you have set up, you will still be able to manually change the items or configure special calculation schemes. Customise your amortisation in your own way with the Banana accounting depreciation book it is very easy to configure the amortisation plans according to your needs. Choose the dates as often as you like: Monthly, quarterly, semi-annually or yearly, the program will automatically calculate the residual values. If you do not indicate the type of amortisation, the percentage, the account, or the counterpart for a single asset, the program will apply the default method for that resource type. In order to be more flexible, you can always make manual changes like write-downs or revaluations.
+
+Each modification of the value, including amortisation and write-down, is based on agile algorithms, which are fluidly integrated in the Transactions table.
+
+Although automatic amortisation is being recorded, depending on the criteria you have set up, you will still be able to manually change the items or configure special calculation schemes. 
+
+**Customise your amortisation in your own way**
+
+With the Banana accounting depreciation book it is very easy to configure the amortisation plans according to your needs. Choose the dates as often as you like: Monthly, quarterly, semi-annually or yearly, the program will automatically calculate the residual values.
+
+If you do not indicate the type of amortisation, the percentage, the account, or the counterpart for a single asset, the program will apply the default method for that resource type. In order to be more flexible, you can always make manual changes like write-downs or revaluations.
