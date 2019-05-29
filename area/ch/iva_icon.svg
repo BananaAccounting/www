@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="85" height="85" rx="10"></rect>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7">
+            <g id="Group-6">
+                <g id="Group-5">
+                    <g id="Group-4">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Rectangle" fill="#F8FBFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="Group" mask="url(#mask-2)">
+                            <g transform="translate(18.000000, 12.000000)">
+                                <rect id="Rectangle" stroke="#D8D8D8" fill-opacity="0.5" fill="#FFFFFF" fill-rule="nonzero" x="0.5" y="0.5" width="48" height="61" rx="2"></rect>
+                                <path d="M0.617274614,16 L48.5,16" id="Line" stroke="#D8D8D8" fill="none" stroke-linecap="square" fill-rule="nonzero"></path>
+                                <rect id="Rectangle" stroke="#9CDE5B" fill="#D5F1AF" fill-rule="nonzero" x="4.5" y="4.5" width="40" height="8" rx="2"></rect>
+                                <g id="Group-2" stroke="none" fill="none" fill-rule="evenodd" transform="translate(4.000000, 19.000000)">
+                                    <rect id="Rectangle" stroke="#D8D8D8" fill-rule="nonzero" x="0.5" y="0.5" width="40" height="39" rx="1"></rect>
+                                    <path d="M30.5,0.5 L30.5,39.5" id="Line-2" stroke="#D8D8D8" fill-rule="nonzero"></path>
+                                    <path d="M20.5,0.5 L20.5,39.5" id="Line-2-Copy" stroke="#D8D8D8" fill-rule="nonzero"></path>
+                                    <path d="M10.5,0.5 L10.5,39.5" id="Line-2-Copy-2" stroke="#D8D8D8" fill-rule="nonzero"></path>
+                                    <path d="M20,-10 L20,30.5" id="Line-2-Copy-3" stroke="#D8D8D8" fill-rule="nonzero" transform="translate(20.500000, 10.500000) rotate(-270.000000) translate(-20.500000, -10.500000) "></path>
+                                    <path d="M20,-2.84217094e-14 L20,40.5" id="Line-2-Copy-4" stroke="#D8D8D8" fill-rule="nonzero" transform="translate(20.500000, 20.500000) rotate(-270.000000) translate(-20.500000, -20.500000) "></path>
+                                    <path d="M15.5,15 L15.5,45" id="Line-2-Copy-5" stroke="#D8D8D8" fill-rule="nonzero" transform="translate(15.500000, 30.000000) rotate(-270.000000) translate(-15.500000, -30.000000) "></path>
+                                    <g id="Group-3" transform="translate(32.000000, 26.500000)" fill-rule="nonzero" stroke="#D8D8D8">
+                                        <path d="M3.5,0.290999271 L3.5,6.7321466" id="Line-2-Copy-6" transform="translate(3.500000, 3.500000) rotate(-270.000000) translate(-3.500000, -3.500000) "></path>
+                                        <path d="M3.5,0.290999271 L3.5,6.7321466" id="Line-2-Copy-7" transform="translate(3.500000, 3.500000) rotate(-180.000000) translate(-3.500000, -3.500000) "></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
