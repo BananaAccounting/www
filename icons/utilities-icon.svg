@@ -1,0 +1,13 @@
+<svg width="102" height="67" viewBox="0 0 102 67" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="80" height="60">
+<path d="M76 1.5C77.3807 1.5 78.5 2.61929 78.5 4L78.5 38.4L78.5 56C78.5 57.3807 77.3807 58.5 76 58.5L59.4286 58.5L4 58.5C2.61928 58.5 1.5 57.3807 1.5 56L1.5 4C1.5 2.61929 2.61929 1.5 4 1.5L76 1.5Z" fill="white" stroke="#354793" stroke-width="3"/>
+</mask>
+<g mask="url(#mask0)">
+<ellipse rx="29.0563" ry="28.3565" transform="matrix(-0.707107 -0.707107 0.736339 -0.676613 -3.42571 7.73207)" fill="#FFE01B"/>
+<path d="M76 1.5C77.3807 1.5 78.5 2.61929 78.5 4L78.5 38.4L78.5 56C78.5 57.3807 77.3807 58.5 76 58.5L59.4286 58.5L4 58.5C2.61928 58.5 1.5 57.3807 1.5 56L1.5 4C1.5 2.61929 2.61929 1.5 4 1.5L76 1.5Z" stroke="#354793" stroke-width="3"/>
+<line x1="17.8857" y1="24" x2="58.6857" y2="24" stroke="#354793" stroke-width="4" stroke-linejoin="round"/>
+<line x1="17.8857" y1="32" x2="39.4857" y2="32" stroke="#354793" stroke-width="4" stroke-linejoin="round"/>
+</g>
+<path d="M100 49C100 57.8366 92.8366 65 84 65C75.1634 65 68 57.8366 68 49C68 40.1634 75.1634 33 84 33C92.8366 33 100 40.1634 100 49Z" fill="#F6F6F4"/>
+<path d="M76 50H84C84.5523 50 85 49.5523 85 49V41M100 49C100 57.8366 92.8366 65 84 65C75.1634 65 68 57.8366 68 49C68 40.1634 75.1634 33 84 33C92.8366 33 100 40.1634 100 49Z" stroke="#354793" stroke-width="3" stroke-linecap="round"/>
+</svg>
