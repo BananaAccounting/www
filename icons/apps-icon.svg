@@ -1,7 +1,6 @@
 <svg width="88" height="80" viewBox="0 0 88 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="88" height="80" fill="white"/>
 <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="1" y="7" width="87" height="65">
-<path d="M2.83332 68L2.83332 11C2.83332 9.61928 3.95261 8.5 5.33332 8.5L84 8.5C85.3807 8.5 86.5 9.61929 86.5 11L86.5 48.6L86.5 68C86.5 69.3807 85.3807 70.5 84 70.5L65.7143 70.5L5.33332 70.5C3.9526 70.5 2.83332 69.3807 2.83332 68Z" fill="white" stroke="#354793" stroke-width="3"/>
+<path d="M84 8.5C85.3807 8.5 86.5 9.61929 86.5 11L86.5 48.6L86.5 68C86.5 69.3807 85.3807 70.5 84 70.5L65.7143 70.5L5.33332 70.5C3.95261 70.5 2.83332 69.3807 2.83332 68L2.83332 11C2.83332 9.61928 3.95261 8.5 5.33332 8.5L84 8.5Z" fill="white" stroke="#354793" stroke-width="3"/>
 </mask>
 <g mask="url(#mask0)">
 <ellipse rx="31.4777" ry="30.7195" transform="matrix(-0.707107 -0.707107 0.736339 -0.676613 75.4615 53.2931)" fill="#FFE01B"/>
